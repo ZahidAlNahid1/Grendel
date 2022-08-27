@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711802537339",
+    "project_id": "migraine-help",
+    "storage_bucket": "migraine-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711802537339:android:ef5bed10936f6da21369de",
+        "android_client_info": {
+          "package_name": "com.zahid.migraine_help_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711802537339-c4fhp12qi53mval64hfthg0nmajoiv9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTRDktJ8MjvXr4bVyt1m9xMGg9E6RLls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711802537339-c4fhp12qi53mval64hfthg0nmajoiv9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
