@@ -13,17 +13,11 @@
 // Do this with a While Loop and a For Loop
 
 // While Loop
-var x = 0
-while(x<5){
-    console.log("hello world");
-    x = x + 1
-}
 
 
 // For Loop
-for( var i = o; i < 5; i++){
-    console.log("hello");
-}
+
+
 
 
 /////////////////
@@ -35,28 +29,7 @@ for( var i = o; i < 5; i++){
 
 // METHOD ONE
 // While Loop
-num = 0
-while(x<25){
-    if(num%2 !== 0){
-        console.log(num);
-    }
-    num = num + 1 
-}
+
 
 // METHOD TWO
 // For Loop
-
-for (var num = 1; num <= 25; num=num+1) {
-    if (num%2 !== 0){
-      console.log(num);
-    }
-}
-
-// More real-world looking For Loop
-// (in the wild you would see it written like this)
-// For Loop
-for (i= 1; i <= 25; i++) {
-    if (i%2 !== 0){
-      console.log(i);
-    }
-}

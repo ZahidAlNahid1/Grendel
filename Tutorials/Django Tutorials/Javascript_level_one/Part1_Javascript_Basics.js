@@ -90,12 +90,10 @@ null
 // Let's see some examples
 var bankAccount = 100;
 var deposit = 50;
-var total = bankAccount + deposit;
-
-total
+var total = account + deposit;
 
 var greeting = "Welcome back: ";
-var name = "Zahid";
+var name = "Jose";
 alert(greeting+name)
 
 // undefined (created but not defined)
@@ -112,10 +110,7 @@ var bonus = null
 alert("hello world")
 
 // Output to console
-console.log("Hey I'm in the console")
-
-// Prompt
-prompt("Enter Something")
+console.log("Hello world")
 
 // Accept Prompt Inputs
 var age = prompt("How old are you?")
