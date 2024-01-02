@@ -1,4 +1,5 @@
 #include <iostream>
+#include <array>
 #include "calculategpa.cpp"
 #include "calculatecgpa.cpp"
 #include "method.cpp"
@@ -15,6 +16,8 @@ int main()
     cout << "2. Calculate CGPA" << endl;
     cout << "3. CGPA and GPA Method used" << endl;
     cout << "4. Exit" << endl;
+
+    cin >> choice;
 
     switch (choice)
     {
