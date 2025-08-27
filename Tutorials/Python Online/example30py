@@ -1,0 +1,7 @@
+x = input("Enter a number : ")
+
+y = input("Enter a number : ")
+
+z = x + y
+
+print("addition of two calculate values is : ", z)

@@ -1,0 +1,1 @@
+cmd /c "cd C:\Users\zahid\Documents\GitHub\Grendel\Tutorials\Python Online"

@@ -1,0 +1,3 @@
+y = len("hello")
+
+print(y)

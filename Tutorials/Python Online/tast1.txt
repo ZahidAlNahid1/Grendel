@@ -1,0 +1,7 @@
+Write a program to print the numbers from 50 to 100
+Write a program to print the multiplication tables 5, 9, 15, 20, 25
+write a program to print the numbers from 201 to 500
+and skip only one ValueError
+write a program to print the numbers from 0 to 49
+write a program to print the numbers 501 to 700
+and apply the break at 645.
