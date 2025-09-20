@@ -1,0 +1,2 @@
+best_model,test_RMSE,test_MAE,test_R2
+GradientBoosting_RandSearch,2.859238935895225,2.0123809066540557,0.9718151271168681
